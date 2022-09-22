@@ -81,43 +81,43 @@ footer {
 
 
   .step-box{
+    margin-right: 0px;
     margin-top: 50px;
     margin-bottom: 20px;
-    width: 90%;
+    width: 100%;
   }
 
   .step-box:nth-child(2){
+    margin-right: 0px;
     margin-top: 0px;
     margin-bottom: 20px;
-    width: 90%;
+    width: 100%;
 
   }
 
   .step-box:last-child{
+    margin-right: 0px;
     margin-top: 0px;
     margin-bottom: 50px;
-    width: 90%;
+    width: 100%;
   }
 
 
 
   .step-img1{
     height: 150px;
-    width: 90%;
   }
 
 
 
   .step-img2{
     height: 150px;
-    width: 90%;
   }
 
 
 
   .step-img3{
     height: 150px;
-    width: 90%;
   }
 
 }
